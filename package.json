@@ -28,7 +28,7 @@
   ],
   "homepage": "https://github.com/chriswiggins/onvif-snapshot#readme",
   "peerDependencies": {
-    "onvif": "^0.5.5"
+    "onvif": "^0.6.2"
   },
   "devDependencies": {
     "onvif": "^0.6.2"
